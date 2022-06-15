@@ -1,5 +1,8 @@
 ### Apply the following design patterns
 
+Class diagram
+![Assignment](https://user-images.githubusercontent.com/67496200/173881032-041a0858-e112-4a77-ba26-1ba4d4564eb6.jpg)
+
 1.  Command pattern to provide the “create product”, “show product”, “receive product”, “deliver product”, “undo”, “redo” and “display undo/redo list” functions 
 2.  Factory pattern or Abstract Factory Pattern to create different Command objects and CoffeeProduct objects (e.g. Coffee Candy object, Coffee Powder object, etc.)
 3.  Memento pattern to provide “Undo” and “Redo” functions
